@@ -27,8 +27,9 @@ A router with two interfaces, and two hosts connected to each interface. Allowed
 
 #### Linear-r2h2
 
-Two routers, with one host on each, and a link between them. This allowed us to test our RIP (Routing Information Protocol).
 ![Linear network with 2 routers and 2 hosts](networks/linear-r2h2.png)
+
+Two routers, with one host on each, and a link between them. This allowed us to test our RIP (Routing Information Protocol).
 
 #### Linear-r3h2
 
