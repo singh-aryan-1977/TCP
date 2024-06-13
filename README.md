@@ -4,8 +4,7 @@ A TCP Network Stack built off an IP Network Stack for CS1680 (Computer Networks)
 
 Details:
 
-- Developed a TCP stack and state machine with custom socket APIs for Docker-based virtual networks, achieving 96%
-  transmission success by implementing stateful packet handling, dynamic buffer management, and connection state tracking
+- Developed a TCP stack and state machine with custom socket APIs for Docker-based virtual networks by implementing stateful packet handling, dynamic buffer management, and connection state tracking
 - Designed event-driven routines for retransmission, zero-window probing, and connection teardown, reducing packet loss and
   ensuring seamless data flow, successfully transmitting a 2MB file in 0.704 seconds
 - Built a virtual IP stack with IPv4 headers, implementing custom APIs for hosts & routers and integrating RIP with
